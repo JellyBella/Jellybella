@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Bella Jiang!
 
-<!--
-**JellyBella/Jellybella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building etl pipelines.
 - 🌱 I’m currently learning terraform, airflow... anything data engineering.
 - 💬 Ask me about anything data analysis.
